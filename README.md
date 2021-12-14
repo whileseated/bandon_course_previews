@@ -1,3 +1,6 @@
 # bandon_course_previews
 Links to course previews for all five courses at Bandon Dunes.  
-20211211
+
+Links to hole-by-hole videos are time-stamped.  
+
+20211211 > 20211214
